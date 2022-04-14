@@ -1,0 +1,22 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.divider {
+  border-bottom: 2px solid #e0e0e0;
+}
+
+.quem-somos {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.parceiros {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+.servicos {
+  background-color: #f5f5f5;
+  padding: 20px;
+}
